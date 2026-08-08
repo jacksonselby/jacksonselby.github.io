@@ -52,7 +52,7 @@ One of the first few members of the Harvard Undergraduate Robotics Club (HURC), 
 
 Designed and built a Chicken coup for 4 backyard chickens during COVID. Materials were purchased from Home Depot and then later, when something larger was desired, the coup was sold on craigslist
 
-## Work Experience 
+### Work Experience 
 
 <img src="Images/PWEagle.png" width="300">
 
