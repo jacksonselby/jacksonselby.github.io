@@ -12,7 +12,7 @@ Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing
 
 [Jackson's Resume](Documents/Jackson_Selby_Resume.pdf)
 
-www.linkedin.com/in/jackson-selby-53587b30b
+#### www.linkedin.com/in/jackson-selby-53587b30b
 
 ## Unofficial Transcript and Plan Of Study
 
