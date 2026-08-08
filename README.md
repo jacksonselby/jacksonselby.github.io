@@ -6,7 +6,7 @@
 <img src="Images/Cover_Photo.HEIC" width="1000">
 
 <p align="center">
-  <em>ES227 final project presentation — pictured second from right, holding our prototype.</em>
+  <em>ES227 final project presentation — pictured second from left, holding our prototype.</em>
 </p>
 
 ### About Me
