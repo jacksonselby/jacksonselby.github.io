@@ -38,15 +38,15 @@ Graduate fluids class culminating in a final project and presentation. Project t
 
 <img src="Images/Es220_flight_2.gif" width="500">
 
-<a href="Projects/HURC.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
+<a href="Projects/Hurc.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
 
 One of the first few members of the Harvard Undergraduate Robotics Club (HURC), helping to brainstorm and design system modules for the planned mars rover competition. Later took on a manufacturing role as one of the few machine shop trained members. 
 
-<img src="Images/Hurc_Cover.jpeg" width="500">
+<img src="Images/HURC.jpeg" width="500">
 
 # Early Projects 
 
-<img src="Images/ChickenCoup.jpeg" width="300">
+<img src="Images/IMG_0772.jpeg" width="300">
 
 <a href="Projects/ChickenCoup.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
 
