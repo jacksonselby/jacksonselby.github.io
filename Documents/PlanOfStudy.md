@@ -5,7 +5,7 @@
 - ES100hfa: Engineering Capstone Design (Project yet to be determined)
 
 
-Plan of Study Spring 2027:
+# Plan of Study Spring 2027:
 - GENED 1080: Engineering the Musical World
 - Engineering Capstone Design (Project yet to be determined)
 2 remaining classes are undecided:
