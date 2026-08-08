@@ -1,5 +1,5 @@
 
-# Jackson's engineering portfolio
+# Jackson's Engineering Portfolio
 
 ## Marblehead, MA | Harvard University class of 2027 | B.S. in Mechanical Engineering
 
@@ -12,10 +12,11 @@ Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing
 
 <a href="Documents/Jackson_Selby_Resume.pdf" target="_blank">Jackson's Resume</a>
 
-#### www.linkedin.com/in/jackson-selby-53587b30b
+<a href="www.linkedin.com/in/jackson-selby-53587b30b" target="_blank">LinkedIn</a>
 
 ## Unofficial Transcript and Plan Of Study
 
-[Jackson’s Unofficial Transcript Spring 2026](Documents/UnofficialTranscript.pdf)
+<a href="Documents/UnofficialTranscript.pdf" target="_blank">Unofficial Transcript Spring 2026 </a>
 
-[Jackson's Plan Of Study Senior Year](Documents/PlanOfStudy.pdf)
+<a href="Documents/PlanOfStudy.pdf" target="_blank"> Senior Year Plan of Study </a>
+
