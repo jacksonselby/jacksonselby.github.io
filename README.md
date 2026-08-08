@@ -24,7 +24,7 @@ Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing
 
 <a href="Documents/PlanOfStudy.pdf" target="_blank"> Senior Year Plan of Study </a>
 
-## Projects and Experience 
+## Project Spotlight
 
 <a href="Projects/ES227.md" target="_blank">ES227 Medical Device Design</a>
 
@@ -32,13 +32,29 @@ Graduate design class in which students were tasked to research, design, and fab
 
 <img src="Images/ES227_Cover.jpeg" width="500">
 
-<a href="Projects/ES227.md" target="_blank">ES227 Medical Device Design</a>
-
-Graduate design class in which students were tasked to research, design, and fabricate a novel medical device. Semester long project culminated in a live demo design fair and a presentation for professors, providers, patients, etc. 
-
-<img src="Images/Es220_flight_2.gif" width="500">
-
 <a href="Projects/ES220.md" target="_blank">ES220 Fluid Dynamics Across Scales</a>
 
 Graduate fluids class culminating in a final project and presentation. Project topics were pitched to professor and intended for students to explore a particular aspect of fluid mechanics more deeply and teach the rest of the class about what they had learned.
- 
+
+<img src="Images/Hurc_Cover.jpeg" width="500">
+
+<a href="Projects/HURC.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
+
+One of the first few members of the Harvard Undergraduate Robotics Club (HURC), helping to brainstorm and design system modules for the planned mars rover competition. Later took on a manufacturing role as one of the few machine shop trained members. 
+
+
+# Early Projects 
+
+<img src="Images/ChickenCoup.jpeg" width="300">
+
+<a href="Projects/ChickenCoup.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
+
+Designed and built a Chicken coup for 4 backyard chickens during COVID. Materials were purchased from Home Depot and the Later, when something larger was desired, the coup was sold on craigslist
+
+## Work Experience 
+
+  June through August 2026 I worked as a Production Test Engineering Intern (PTE) at Pratt and Whitney in Middletown, CT. Day to day duties included test stand coverage for over 75 engines in 4 different models. Coverage of each engine required communicating with operators and instructing them on when to run certain test profiles; data analysis to determine whether parameters were within set quality, ship, and health and safety limits; troubleshooting tripped engine faults and various problems which required a halt of the test; and review of the final shipping documents before the engine and relevant test parameters were shipped to the customer.
+  Along with these daily coverage duties, I worked on a project. After learning how to code in proprietary company software (Unigraph) I replicated the PW1100G quality curve and test instruction sheet (TIS) files and modified them to be applicable to the new PW1900G model. This included implementing quality curve equations for the given parameters as determined by the quality data analysis team. It also included figuring out ways to graph the ship limits, and health and safety limits required by the TIS. Many of these limits were specific to the PW1900G and so new and creative ways were needed to figure out how to plot them. In total, 22 quality assurance curves and 40+ TIS limits were coded, and uploaded to the master code via GitHub, dramatically reducing the required time to analyze PW1900G test data. 
+
+
+
