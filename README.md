@@ -10,7 +10,7 @@
 </p>
 
 ### About Me
-Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing a Bachelor’s of Science in Mechanical Engineering. I love solving problems creatively with math, physics, and engineering principles, and I thrive off of seeing a project through design, fabrication, testing, and itertion to a successful final product that I can be proud of. after graduation, my goal is to build new and innovative cutting-edge aerospace systems and other deep-tech systems to continue tackling demanding problems and create solutions that will have a real-world impact. 
+Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing a Bachelor of Science in Mechanical Engineering. I love solving problems creatively with math, physics, and engineering principles, and I thrive off of seeing a project through design, fabrication, testing, and iteration to a successful final product that I can be proud of. after graduation, my goal is to build new and innovative cutting-edge aerospace systems and other deep-tech systems to continue tackling demanding problems and create solutions that will have a real-world impact. 
 
 ### Resume and LinkedIn
 
@@ -48,11 +48,12 @@ One of the first few members of the Harvard Undergraduate Robotics Club (HURC), 
 
 <img src="Images/IMG_0772.jpeg" width="300">
 
-<a href="Projects/ChickenCoup.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
+<a href="Projects/ChickenCoop.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
 
-Designed and built a Chicken coup for 4 backyard chickens during COVID. Materials were purchased from Home Depot and then later, when something larger was desired, the coup was sold on craigslist
+Designed and built a Chicken coop for 4 backyard chickens during COVID. Materials were purchased from Home Depot and then later, when something larger was desired, the coop was sold on craigslist
 
 ## Work Experience 
+#### Production Test Engineering Intern - Pratt and Whitney
 
 <img src="Images/PWEagle.png" width="300">
 
