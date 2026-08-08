@@ -54,7 +54,7 @@ Designed and built a Chicken coup for 4 backyard chickens during COVID. Material
 
 ## Work Experience 
 
-<img src="Images/PWEagle.jpeg" width="300">
+<img src="Images/PWEagle.png" width="300">
 
   June through August 2026 I worked as a Production Test Engineering Intern (PTE) at Pratt and Whitney in Middletown, CT. I provided test stand coverage for over 75 engines in 4 different models, communicating with operators to execute certain test profiles, and analyzing engine test data to determine whether parameters were within set quality, ship, and health and safety limits. I was also responsible for troubleshooting tripped engine faults and various abnormal running conditions which required a halt of the test, determining how to proceed, and reviewing the final shipping documents before the engine and relevant test parameters were shipped to the customer.
 
@@ -62,4 +62,8 @@ Designed and built a Chicken coup for 4 backyard chickens during COVID. Material
 
   Along with these daily coverage duties, I worked on an individual project to streamline PW1900G test data analysis. After learning how to code in proprietary Unigraph software, I adapted PW1100G quality curve and test instruction sheet (TIS) files to be applicable to the new PW1900G model. This included implementing quality curve equations for the given parameters as determined by the quality data analysis team. It also included figuring out ways to graph the ship limits, and health and safety limits required by the TIS. Many of these limits were specific to the PW1900G and so new and creative ways were needed to figure out how to plot them. In total, 22 quality assurance curves and 40+ TIS limits were coded, and uploaded to the master code via GitHub, dramatically reducing the required time to analyze PW1900G test data. 
 
-_Due to the proprietary nature of the project, technical data and imagery cannot be included_
+<p align="center">
+  <em>
+Due to the proprietary nature of the project, technical data and imagery cannot be included
+  </em>
+</p>
