@@ -16,6 +16,6 @@ www.linkedin.com/in/jackson-selby-53587b30b
 
 ## Unofficial Transcript and Plan Of Study
 
-[Jackson's Resume](Documents/UnofficialTranscrpit.pdf)
+[Jackson’s Unofficial Transcript Spring 2026](Documents/UnofficialTranscrpit.pdf)
 
-[Jackson's Resume](Documents/PlanOfStudy.txt)
+[Jackson's Plan Of Study Senior Year](Documents/PlanOfStudy.txt)
