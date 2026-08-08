@@ -10,7 +10,7 @@
 </p>
 
 ### About Me
-Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing a Bachelor of Science in Mechanical Engineering. I love solving problems creatively with math, physics, and engineering principles, and I thrive off of seeing a project through design, fabrication, testing, and iteration to a successful final product that I can be proud of. after graduation, my goal is to build new and innovative cutting-edge aerospace systems and other deep-tech systems to continue tackling demanding problems and create solutions that will have a real-world impact. 
+Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing a Bachelor of Science in Mechanical Engineering. I love solving problems creatively with math, physics, and engineering principles, and I thrive off of seeing a project through design, fabrication, testing, and iteration to a successful final product that I can be proud of. After graduation, my goal is to build new and innovative cutting-edge aerospace systems and other deep-tech systems to continue tackling demanding problems and create solutions that will have a real-world impact. 
 
 ### Resume and LinkedIn
 
@@ -24,7 +24,7 @@ Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing
 
 <a href="Documents/PlanOfStudy.pdf" target="_blank"> Senior Year Plan of Study </a>
 
-## Project Spotlight
+## Projects
 
 <a href="Projects/ES227.md" target="_blank">ES227 Medical Device Design</a>
 
@@ -40,7 +40,7 @@ Graduate fluids class culminating in a final project and presentation. Project t
 
 <a href="Projects/Hurc.md" target="_blank"> Harvard Undergraduate Robotics Club</a>
 
-One of the first few members of the Harvard Undergraduate Robotics Club (HURC), helping to brainstorm and design system modules for the planned mars rover competition. Later took on a manufacturing role as one of the few machine shop trained members. 
+One of the first few members of the Harvard Undergraduate Robotics Club (HURC), helping to brainstorm and design system modules for the planned Mars rover competition. Later took on a manufacturing role as one of the few machine shop trained members. 
 
 <img src="Images/HURC.jpeg" width="500">
 
@@ -50,7 +50,7 @@ One of the first few members of the Harvard Undergraduate Robotics Club (HURC), 
 
 <a href="Projects/ChickenCoop.md" target="_blank"> Covid Chicken Coop Project </a>
 
-Designed and built a Chicken coop for 4 backyard chickens during Covid. Materials were purchased from Home Depot and then later, when something larger was desired, the coop was sold on craigslist
+Designed and built a Chicken coop for 4 backyard chickens during Covid. Materials were purchased from Home Depot and then later, when something larger was desired, the coop was sold on Craigslist
 
 ## Work Experience 
 #### Production Test Engineering Intern - Pratt and Whitney
