@@ -26,13 +26,22 @@ Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing
 
 ## Projects
 
-<a href="Projects/ES227.html" target=“_blank”>ES227 Medical Device Design Project</a>
+<a href="Projects/ES227.pdf" target=“_blank”>ES227 Medical Device Design Project</a>
+
+<a href="Projects/ES227_FinalPaper.pdf" target=“_blank”>ES227 Final Paper</a>
+
+<a href="Projects/ES227_FinalPres.pdf" target=“_blank”>ES227 Presentation</a>
 
 Graduate design class in which students were tasked to research, design, and fabricate a novel medical device. Semester long project culminated in a live demo design fair and a presentation for professors, providers, patients, etc. 
 
 <img src="Images/ES227_Cover.jpeg" width="500">
 
-<a href="Projects/ES220.md" target="_blank">ES220 Fluid Dynamics Across Scales</a>
+<a href="Projects/ES220.pdf" target="_blank">ES220 Fluid Dynamics Across Scales</a>
+
+<a href="Projects/ES220_FinalPaper.pdf" target=“_blank”>ES220 Final Paper</a>
+
+<a href="Projects/ES220_FinalPres.pdf" target=“_blank”>ES220 Presentation</a>
+
 
 Graduate fluids class culminating in a final project and presentation. Project topics were pitched to professor and intended for students to explore a particular aspect of fluid mechanics more deeply and teach the rest of the class about what they had learned.
 
