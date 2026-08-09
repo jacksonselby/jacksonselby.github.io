@@ -26,7 +26,7 @@ Hello. My name is Jackson Selby and I am a senior at Harvard University pursuing
 
 ## Projects
 
-<a href="./Projects/ES227.html" target=“_blank”>ES227 Medical Device Design Project</a>
+<a href="Projects/ES227.html" target=“_blank”>ES227 Medical Device Design Project</a>
 
 Graduate design class in which students were tasked to research, design, and fabricate a novel medical device. Semester long project culminated in a live demo design fair and a presentation for professors, providers, patients, etc. 
 
