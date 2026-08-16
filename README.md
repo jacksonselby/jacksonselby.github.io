@@ -36,7 +36,7 @@ Graduate design class in which students were tasked to research, design, and fab
 
 <img src="Images/ES227_Cover.jpeg" width="500">
 
-<a href="Projects/ES220.pdf" target="_blank">ES220 Fluid Dynamics Across Scales Project</a>
+<a href="Projects/ES220_Page.pdf" target="_blank">ES220 Fluid Dynamics Across Scales Project</a>
 
 <a href="Projects/ES220_Final_Project_Report__Copy_ (1).pdf" target="_blank">ES220 Final Paper</a>
 
