@@ -40,7 +40,7 @@ Graduate design class in which students were tasked to research, design, and fab
 
 <a href="Projects/ES220_Final_Project_Report__Copy_ (1).pdf" target="_blank">ES220 Final Paper</a>
 
-<a href="Projects/ES220_FinalPres.pdf" target="_blank">ES220 Presentation</a>
+<a href="Projects/ES220_FinalPres .pdf" target="_blank">ES220 Presentation</a>
 
 
 Graduate fluids class culminating in a final project and presentation. Project topics were pitched to professor and intended for students to explore a particular aspect of fluid mechanics more deeply and teach the rest of the class about what they had learned.
