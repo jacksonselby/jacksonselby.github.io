@@ -3,7 +3,7 @@
 
 ## Marblehead, MA | Harvard University class of 2027 | B.S. in Mechanical Engineering
 
-<img src="Images/IMG_2382.heic" width="1000">
+<img src="Images/IMG_2382.jpeg" width="1000">
 
 <p align="center">
   <em>ES227 final project presentation — pictured second from left, holding our prototype.</em>
