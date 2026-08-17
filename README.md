@@ -61,7 +61,7 @@ One of the first few members of the Harvard Undergraduate Robotics Club (HURC), 
 
 Designed and built a Chicken coop for 4 backyard chickens during Covid. Materials were purchased from Home Depot and then later, when something larger was desired, the coop was sold on Craigslist
 
-<a href="" target="_blank"> Miscellaneous Projects </a>
+<a href="Projects/Miscellaneous Project.pdf" target="_blank"> Miscellaneous Projects </a>
 
 ## Work Experience 
 #### Production Test Engineering Intern - Pratt and Whitney
