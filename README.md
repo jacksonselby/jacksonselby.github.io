@@ -57,7 +57,7 @@ One of the first few members of the Harvard Undergraduate Robotics Club (HURC), 
 
 <img src="Images/IMG_0772.jpeg" width="300">
 
-<a href="Projects/ChickenCoop.md" target="_blank"> Covid Chicken Coop Project </a>
+<a href="Projects/Carpentry Portfolio.pdf" target="_blank"> Covid Chicken Coop Project </a>
 
 Designed and built a Chicken coop for 4 backyard chickens during Covid. Materials were purchased from Home Depot and then later, when something larger was desired, the coop was sold on Craigslist
 
