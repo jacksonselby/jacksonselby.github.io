@@ -63,6 +63,8 @@ Designed and built a Chicken coop for 4 backyard chickens during Covid. Material
 
 <a href="Projects/Miscellaneous Project.pdf" target="_blank"> Miscellaneous Projects </a>
 
+A few smaller projects and assignments from throughout my time in college meant to demonstrate proficiency and understanding of modeling application and techniques
+
 ## Work Experience 
 #### Production Test Engineering Intern - Pratt and Whitney
 
